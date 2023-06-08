@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "400697772596",
+    "project_id": "bubbledetector-811b5",
+    "storage_bucket": "bubbledetector-811b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400697772596:android:6877fb59bb22ddba569861",
+        "android_client_info": {
+          "package_name": "com.example.bubbleintube_v"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400697772596-tjra349otvjm1ik45c1frg4bp7cvklm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy2jyYyMP6yRAcbz7At-Jg3kxnSJ0vEtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400697772596-tjra349otvjm1ik45c1frg4bp7cvklm5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
